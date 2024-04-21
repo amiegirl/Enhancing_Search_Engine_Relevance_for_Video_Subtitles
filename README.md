@@ -22,6 +22,18 @@ With Semantic search, our engine understands the purpose of your search and the 
 * Using cosine distance, the similarity score between embeddings of documents and user search query embedding is calculated.
 * These cosine similarity scores help in returning the most relevant candidate documents as per user’s search query.
 # Results
+![semantic_search_engine](https://github.com/amiegirl/Enhancing_Search_Engine_Relevance_for_Video_Subtitles/assets/81017006/90f544c2-89bf-4d6f-834c-ae5d58d5ef2f)<br>
+<br>
+![semantic_search_engine2](https://github.com/amiegirl/Enhancing_Search_Engine_Relevance_for_Video_Subtitles/assets/81017006/91488ce5-436c-46c3-88be-f823f310d5cd)<br>
+<br>
+![semantic_search_engine3](https://github.com/amiegirl/Enhancing_Search_Engine_Relevance_for_Video_Subtitles/assets/81017006/51a1f80a-1d62-4f14-9efa-5b0d7e9bce91)<br>
+<br>
+
+
+https://github.com/amiegirl/Enhancing_Search_Engine_Relevance_for_Video_Subtitles/assets/81017006/ad55eb8f-6998-4189-b0f1-b99d0c157a7e
+
+
+<br>
 
 # Conclusion 
 The approach attempts to improve video search results' relevance and accuracy, with the potential to enhance accessibility and inclusivity in the video content industry.
